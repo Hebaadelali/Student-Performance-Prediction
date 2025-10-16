@@ -1,6 +1,6 @@
 # Student Exam Score Prediction
 
-**Description:** A machine learning project to predict students’ exam scores with data preprocessing, model evaluation, and insights.
+**Description:** A machine learning project predicting students' exam scores using Linear Regression with preprocessing, evaluation, and visualization.
 
 ---
 
